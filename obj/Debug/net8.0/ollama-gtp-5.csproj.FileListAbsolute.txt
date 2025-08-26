@@ -1,0 +1,106 @@
+C:\Users\MLui\source\repos\ollama-gtp-5\obj\Debug\net8.0\ollama-gtp-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MLui\source\repos\ollama-gtp-5\obj\Debug\net8.0\ollama-gtp-5.AssemblyInfoInputs.cache
+C:\Users\MLui\source\repos\ollama-gtp-5\obj\Debug\net8.0\ollama-gtp-5.AssemblyInfo.cs
+C:\Users\MLui\source\repos\ollama-gtp-5\obj\Debug\net8.0\ollama-gtp-5.csproj.CoreCompileInputs.cache
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\ollama-gtp-5.staticwebassets.endpoints.json
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\ollama-gtp-5.exe
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\ollama-gtp-5.deps.json
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\ollama-gtp-5.runtimeconfig.json
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\ollama-gtp-5.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\ollama-gtp-5.pdb
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\Microsoft.Graph.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\Microsoft.Graph.Core.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\Microsoft.IdentityModel.Validators.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\Microsoft.Kiota.Abstractions.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\Microsoft.Kiota.Authentication.Azure.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\Microsoft.Kiota.Serialization.Form.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\Microsoft.Kiota.Serialization.Json.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\Microsoft.Kiota.Serialization.Multipart.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\Microsoft.Kiota.Serialization.Text.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\Std.UriTemplate.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\obj\Debug\net8.0\ollama-gtp-5.csproj.AssemblyReference.cache
+C:\Users\MLui\source\repos\ollama-gtp-5\obj\Debug\net8.0\ollama-gtp-5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MLui\source\repos\ollama-gtp-5\obj\Debug\net8.0\scopedcss\bundle\ollama-gtp-5.styles.css
+C:\Users\MLui\source\repos\ollama-gtp-5\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\MLui\source\repos\ollama-gtp-5\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\MLui\source\repos\ollama-gtp-5\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\MLui\source\repos\ollama-gtp-5\obj\Debug\net8.0\staticwebassets\msbuild.ollama-gtp-5.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MLui\source\repos\ollama-gtp-5\obj\Debug\net8.0\staticwebassets\msbuild.ollama-gtp-5.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\MLui\source\repos\ollama-gtp-5\obj\Debug\net8.0\staticwebassets\msbuild.build.ollama-gtp-5.props
+C:\Users\MLui\source\repos\ollama-gtp-5\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ollama-gtp-5.props
+C:\Users\MLui\source\repos\ollama-gtp-5\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ollama-gtp-5.props
+C:\Users\MLui\source\repos\ollama-gtp-5\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\MLui\source\repos\ollama-gtp-5\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\MLui\source\repos\ollama-gtp-5\obj\Debug\net8.0\ollama-g.AF72507F.Up2Date
+C:\Users\MLui\source\repos\ollama-gtp-5\obj\Debug\net8.0\ollama-gtp-5.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\obj\Debug\net8.0\refint\ollama-gtp-5.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\obj\Debug\net8.0\ollama-gtp-5.pdb
+C:\Users\MLui\source\repos\ollama-gtp-5\obj\Debug\net8.0\ollama-gtp-5.genruntimeconfig.cache
+C:\Users\MLui\source\repos\ollama-gtp-5\obj\Debug\net8.0\ref\ollama-gtp-5.dll
+C:\Users\MLui\source\repos\ollama-gtp-5\bin\Debug\net8.0\ollama-gtp-5.staticwebassets.runtime.json
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\ollama-gtp-5.staticwebassets.runtime.json
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\ollama-gtp-5.staticwebassets.endpoints.json
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\ollama-gtp-5.exe
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\ollama-gtp-5.deps.json
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\ollama-gtp-5.runtimeconfig.json
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\ollama-gtp-5.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\ollama-gtp-5.pdb
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\Microsoft.Graph.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\Microsoft.Graph.Core.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\Microsoft.IdentityModel.Validators.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\Microsoft.Kiota.Abstractions.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\Microsoft.Kiota.Authentication.Azure.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\Microsoft.Kiota.Serialization.Form.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\Microsoft.Kiota.Serialization.Json.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\Microsoft.Kiota.Serialization.Multipart.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\Microsoft.Kiota.Serialization.Text.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\Std.UriTemplate.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\obj\Debug\net8.0\ollama-gtp-5.csproj.AssemblyReference.cache
+C:\Users\MLui\source\repos\ollama-gtp - v7\obj\Debug\net8.0\ollama-gtp-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MLui\source\repos\ollama-gtp - v7\obj\Debug\net8.0\ollama-gtp-5.AssemblyInfoInputs.cache
+C:\Users\MLui\source\repos\ollama-gtp - v7\obj\Debug\net8.0\ollama-gtp-5.AssemblyInfo.cs
+C:\Users\MLui\source\repos\ollama-gtp - v7\obj\Debug\net8.0\ollama-gtp-5.csproj.CoreCompileInputs.cache
+C:\Users\MLui\source\repos\ollama-gtp - v7\obj\Debug\net8.0\ollama-gtp-5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MLui\source\repos\ollama-gtp - v7\obj\Debug\net8.0\scopedcss\bundle\ollama-gtp-5.styles.css
+C:\Users\MLui\source\repos\ollama-gtp - v7\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\MLui\source\repos\ollama-gtp - v7\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\MLui\source\repos\ollama-gtp - v7\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\MLui\source\repos\ollama-gtp - v7\obj\Debug\net8.0\staticwebassets\msbuild.ollama-gtp-5.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MLui\source\repos\ollama-gtp - v7\obj\Debug\net8.0\staticwebassets\msbuild.ollama-gtp-5.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\MLui\source\repos\ollama-gtp - v7\obj\Debug\net8.0\staticwebassets\msbuild.build.ollama-gtp-5.props
+C:\Users\MLui\source\repos\ollama-gtp - v7\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ollama-gtp-5.props
+C:\Users\MLui\source\repos\ollama-gtp - v7\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ollama-gtp-5.props
+C:\Users\MLui\source\repos\ollama-gtp - v7\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\MLui\source\repos\ollama-gtp - v7\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\MLui\source\repos\ollama-gtp - v7\obj\Debug\net8.0\ollama-g.AF72507F.Up2Date
+C:\Users\MLui\source\repos\ollama-gtp - v7\obj\Debug\net8.0\ollama-gtp-5.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\obj\Debug\net8.0\refint\ollama-gtp-5.dll
+C:\Users\MLui\source\repos\ollama-gtp - v7\obj\Debug\net8.0\ollama-gtp-5.pdb
+C:\Users\MLui\source\repos\ollama-gtp - v7\obj\Debug\net8.0\ollama-gtp-5.genruntimeconfig.cache
+C:\Users\MLui\source\repos\ollama-gtp - v7\obj\Debug\net8.0\ref\ollama-gtp-5.dll

@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "Or0WqgK1LAYCYD0tTRYq5Pai+3a0NkplN2A0Klh0CEQ=",
+  "Source": "ollama-gtp-5",
+  "BasePath": "_content/ollama-gtp-5",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ollama-gtp-5\\wwwroot",
+      "Source": "ollama-gtp-5",
+      "ContentRoot": "C:\\Users\\MLui\\source\\repos\\ollama-gtp - v7\\wwwroot\\",
+      "BasePath": "_content/ollama-gtp-5",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\MLui\\source\\repos\\ollama-gtp - v7\\wwwroot\\css\\styles.css",
+      "SourceId": "ollama-gtp-5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MLui\\source\\repos\\ollama-gtp - v7\\wwwroot\\",
+      "BasePath": "_content/ollama-gtp-5",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qc9lhriwyb",
+      "Integrity": "ZsBIKrbCHtvNCacBmUZvLG2JxilC9aC0yBDUhDLfQOQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\MLui\\source\\repos\\ollama-gtp - v7\\wwwroot\\index.html",
+      "SourceId": "ollama-gtp-5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MLui\\source\\repos\\ollama-gtp - v7\\wwwroot\\",
+      "BasePath": "_content/ollama-gtp-5",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lcedfbeqdt",
+      "Integrity": "5WTF/vcfkvgPVpCaYKB/edQlybNHHbhkxjLPrSr8bYM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\MLui\\source\\repos\\ollama-gtp - v7\\wwwroot\\js\\sse.js",
+      "SourceId": "ollama-gtp-5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MLui\\source\\repos\\ollama-gtp - v7\\wwwroot\\",
+      "BasePath": "_content/ollama-gtp-5",
+      "RelativePath": "js/sse#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8ti46xje9u",
+      "Integrity": "PNIimr3zE9AuPmwNm39fG1S2+usXB2BAO6/VJIbInAg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\sse.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\MLui\\source\\repos\\ollama-gtp - v7\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2317"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZsBIKrbCHtvNCacBmUZvLG2JxilC9aC0yBDUhDLfQOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Aug 2025 18:28:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZsBIKrbCHtvNCacBmUZvLG2JxilC9aC0yBDUhDLfQOQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.qc9lhriwyb.css",
+      "AssetFile": "C:\\Users\\MLui\\source\\repos\\ollama-gtp - v7\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2317"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZsBIKrbCHtvNCacBmUZvLG2JxilC9aC0yBDUhDLfQOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Aug 2025 18:28:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qc9lhriwyb"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZsBIKrbCHtvNCacBmUZvLG2JxilC9aC0yBDUhDLfQOQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\MLui\\source\\repos\\ollama-gtp - v7\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3215"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5WTF/vcfkvgPVpCaYKB/edQlybNHHbhkxjLPrSr8bYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Aug 2025 18:28:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5WTF/vcfkvgPVpCaYKB/edQlybNHHbhkxjLPrSr8bYM="
+        }
+      ]
+    },
+    {
+      "Route": "index.lcedfbeqdt.html",
+      "AssetFile": "C:\\Users\\MLui\\source\\repos\\ollama-gtp - v7\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3215"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5WTF/vcfkvgPVpCaYKB/edQlybNHHbhkxjLPrSr8bYM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Aug 2025 18:28:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lcedfbeqdt"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5WTF/vcfkvgPVpCaYKB/edQlybNHHbhkxjLPrSr8bYM="
+        }
+      ]
+    },
+    {
+      "Route": "js/sse.8ti46xje9u.js",
+      "AssetFile": "C:\\Users\\MLui\\source\\repos\\ollama-gtp - v7\\wwwroot\\js\\sse.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6116"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PNIimr3zE9AuPmwNm39fG1S2+usXB2BAO6/VJIbInAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Aug 2025 19:21:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8ti46xje9u"
+        },
+        {
+          "Name": "label",
+          "Value": "js/sse.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PNIimr3zE9AuPmwNm39fG1S2+usXB2BAO6/VJIbInAg="
+        }
+      ]
+    },
+    {
+      "Route": "js/sse.js",
+      "AssetFile": "C:\\Users\\MLui\\source\\repos\\ollama-gtp - v7\\wwwroot\\js\\sse.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6116"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PNIimr3zE9AuPmwNm39fG1S2+usXB2BAO6/VJIbInAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Aug 2025 19:21:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PNIimr3zE9AuPmwNm39fG1S2+usXB2BAO6/VJIbInAg="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/ollama-gtp-5/css/styles.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZsBIKrbCHtvNCacBmUZvLG2JxilC9aC0yBDUhDLfQOQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2317"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ZsBIKrbCHtvNCacBmUZvLG2JxilC9aC0yBDUhDLfQOQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Aug 2025 18:28:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ollama-gtp-5/css/styles.qc9lhriwyb.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qc9lhriwyb"},{"Name":"integrity","Value":"sha256-ZsBIKrbCHtvNCacBmUZvLG2JxilC9aC0yBDUhDLfQOQ="},{"Name":"label","Value":"_content/ollama-gtp-5/css/styles.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2317"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ZsBIKrbCHtvNCacBmUZvLG2JxilC9aC0yBDUhDLfQOQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Aug 2025 18:28:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ollama-gtp-5/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5WTF/vcfkvgPVpCaYKB/edQlybNHHbhkxjLPrSr8bYM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3215"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00225WTF/vcfkvgPVpCaYKB/edQlybNHHbhkxjLPrSr8bYM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Aug 2025 18:28:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ollama-gtp-5/index.lcedfbeqdt.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lcedfbeqdt"},{"Name":"integrity","Value":"sha256-5WTF/vcfkvgPVpCaYKB/edQlybNHHbhkxjLPrSr8bYM="},{"Name":"label","Value":"_content/ollama-gtp-5/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3215"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00225WTF/vcfkvgPVpCaYKB/edQlybNHHbhkxjLPrSr8bYM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Aug 2025 18:28:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ollama-gtp-5/js/sse.8ti46xje9u.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\sse.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8ti46xje9u"},{"Name":"integrity","Value":"sha256-PNIimr3zE9AuPmwNm39fG1S2\u002BusXB2BAO6/VJIbInAg="},{"Name":"label","Value":"_content/ollama-gtp-5/js/sse.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6116"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022PNIimr3zE9AuPmwNm39fG1S2\u002BusXB2BAO6/VJIbInAg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Aug 2025 19:21:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ollama-gtp-5/js/sse.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\sse.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PNIimr3zE9AuPmwNm39fG1S2\u002BusXB2BAO6/VJIbInAg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6116"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022PNIimr3zE9AuPmwNm39fG1S2\u002BusXB2BAO6/VJIbInAg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Aug 2025 19:21:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

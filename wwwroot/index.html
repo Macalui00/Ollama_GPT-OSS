@@ -1,0 +1,94 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <title>Chat con Ollama (SSE + parámetros)</title>
+    <link rel="stylesheet" href="/css/styles.css" />
+</head>
+<body>
+    <h1>💬 Chat con Ollama (SSE + parámetros)</h1>
+
+    <section class="panel">
+        <div class="grid">
+            <label>
+                <span>Modelo</span>
+                <input id="model" value="gpt-oss:20b" />
+            </label>
+
+            <label>
+                <span>Temperature</span>
+                <input id="temperature" type="number" step="0.1" min="0" max="2" placeholder="0.7" />
+            </label>
+
+            <label>
+                <span>num_ctx</span>
+                <input id="num_ctx" type="number" step="1" min="256" placeholder="4096" />
+            </label>
+
+            <label>
+                <span>top_p</span>
+                <input id="top_p" type="number" step="0.05" min="0" max="1" placeholder="0.9" />
+            </label>
+
+            <label>
+                <span>repeat_penalty</span>
+                <input id="repeat_penalty" type="number" step="0.05" min="0.5" max="2" placeholder="1.1" />
+            </label>
+
+            <label>
+                <span>Format</span>
+                <select id="formatMode">
+                    <option value="">(ninguno)</option>
+                    <option value="json">"json"</option>
+                    <option value="schema">Esquema JSON (abajo)</option>
+                </select>
+            </label>
+        </div>
+
+        <label class="block">
+            <span>Prompt</span>
+            <textarea id="prompt" rows="4" placeholder="Escribe tu mensaje..."></textarea>
+        </label>
+
+        <div class="grid">
+            <label>
+                <span>System (opcional)</span>
+                <textarea id="system" rows="3" placeholder="Sos un profesor paciente y claro."></textarea>
+            </label>
+
+            <label>
+                <span>Suffix (opcional)</span>
+                <textarea id="suffix" rows="3" placeholder="Dame un ejemplo cortito en C#."></textarea>
+            </label>
+        </div>
+
+        <label class="block">
+            <span>Template (opcional)</span>
+            <textarea id="template" rows="3" placeholder="[INST]\nSistema: {{ .System }}\nUsuario: {{ .Prompt }}\nSufijo: {{ .Suffix }}\n[/INST]"></textarea>
+        </label>
+
+        <label class="block" id="schemaWrap" style="display:none;">
+            <span>Format (esquema JSON)</span>
+            <textarea id="formatSchema" rows="5" placeholder='{
+  "type": "object",
+  "properties": {
+    "explicacion": { "type": "string" },
+    "ejemplo": { "type": "string" }
+  },
+  "required": ["explicacion","ejemplo"]
+}'></textarea>
+        </label>
+
+        <div class="buttons">
+            <button id="sendBtn">Enviar</button>
+            <button id="stopBtn" class="secondary" disabled>Detener</button>
+            <button id="clearBtn" class="secondary">Limpiar</button>
+        </div>
+    </section>
+
+    <div id="status"></div>
+    <div id="output" aria-live="polite"></div>
+
+    <script src="/js/sse.js"></script>
+</body>
+</html>

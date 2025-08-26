@@ -1,0 +1,135 @@
+﻿:root {
+    --bg: #0f172a;
+    --panel: #0b1220;
+    --text: #e5e7eb;
+    --muted: #94a3b8;
+    --border: #334155;
+    --accent: #22d3ee;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: system-ui, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+.panel {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px;
+    margin-bottom: 16px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 1100px) {
+    .grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+label {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+    label.block {
+        margin-top: 10px;
+    }
+
+    label span {
+        color: var(--muted);
+        font-size: 12px;
+    }
+
+input, select, textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    background: #111827;
+    color: var(--text);
+}
+
+textarea {
+    resize: vertical;
+}
+
+.buttons {
+    display: flex;
+    gap: 8px;
+    margin: 10px 0;
+}
+
+button {
+    padding: 10px 14px;
+    border: 0;
+    border-radius: 10px;
+    background: var(--accent);
+    color: #072a2f;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+    button.secondary {
+        background: #1f2937;
+        color: var(--text);
+        border: 1px solid var(--border);
+    }
+
+    button:disabled {
+        opacity: .6;
+        cursor: not-allowed;
+    }
+
+#status {
+    margin: 8px 0 12px;
+    color: var(--muted);
+    min-height: 20px;
+}
+
+.spinner {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    border: 2px solid #22d3ee55;
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin .8s linear infinite;
+    vertical-align: -2px;
+    margin-right: 6px;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+#output {
+    white-space: pre-wrap;
+    background: #111827;
+    border: 1px solid #1f2937;
+    border-radius: 10px;
+    padding: 12px;
+    min-height: 140px;
+    max-height: 60vh;
+    overflow: auto;
+}

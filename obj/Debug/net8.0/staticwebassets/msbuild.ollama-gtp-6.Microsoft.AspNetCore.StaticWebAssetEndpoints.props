@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/ollama-gtp-6/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4fg0n/yiD0hOG\u002B9yAoN32zl11mmdCOyWU8XCnlU5Chc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5109"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00224fg0n/yiD0hOG\u002B9yAoN32zl11mmdCOyWU8XCnlU5Chc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Aug 2025 19:13:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ollama-gtp-6/index.xk7mxu7z4m.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xk7mxu7z4m"},{"Name":"integrity","Value":"sha256-4fg0n/yiD0hOG\u002B9yAoN32zl11mmdCOyWU8XCnlU5Chc="},{"Name":"label","Value":"_content/ollama-gtp-6/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5109"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00224fg0n/yiD0hOG\u002B9yAoN32zl11mmdCOyWU8XCnlU5Chc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Aug 2025 19:13:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
